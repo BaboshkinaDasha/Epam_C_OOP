@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lab2_OOP_Baboshkina/1.0.0": {
+        "runtime": {
+          "Lab2_OOP_Baboshkina.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab2_OOP_Baboshkina/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
